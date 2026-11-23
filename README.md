@@ -3,7 +3,7 @@
   <h1>Anas Al Sapi</h1>
   <p><strong>Software Engineering Student · Web Development · Full-Stack Projects</strong></p>
   <p>Cyberjaya, Malaysia · <a href="mailto:alsapianas@gmail.com">alsapianas@gmail.com</a></p>
-  <p><a href="https://github.com/anasalsapi77-beep">GitHub profile</a> · <a href="https://github.com/anasalsapi77-beep/Anas_Portfolio">Portfolio repository</a></p>
+  <p><a href="https://anasalsapi77-beep.github.io/Anas_Portfolio/">Live portfolio</a> · <a href="https://github.com/anasalsapi77-beep/Anas_Portfolio">Portfolio repository</a> · <a href="https://github.com/anasalsapi77-beep">GitHub</a></p>
 </div>
 
 ---
