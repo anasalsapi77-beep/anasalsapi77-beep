@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/246133228?v=4" width="112" alt="Anas Al Sapi profile photo" />
   <h1>Anas Al Sapi</h1>
   <p><strong>Software Engineering Student · Web Development · Full-Stack Projects</strong></p>
@@ -15,12 +15,13 @@ I am a first-year Software Engineering student at City University Malaysia, with
 ## Technologies
 
 **Web:** HTML5 · CSS3 · JavaScript  
-**Database:** SQL · MySQL  
 **Backend:** Node.js · Express  
-**Tools:** Git · GitHub · Docker · Docker Compose  
+**Database:** SQL · MySQL  
+**Windows scripting:** PowerShell · Windows Batch  
+**Tools & configuration:** Git · GitHub · Docker · Docker Compose · YAML  
 **Currently learning:** Python
 
-HTML and CSS are listed as the web technologies used to structure and style my interfaces. Python is a current learning focus, not a claim of a published Python project.
+HTML and CSS are the web technologies used to structure and style my interfaces. PowerShell and Windows Batch are used for the local ApplyTrail launcher scripts. YAML is used for Docker Compose and GitHub Actions configuration. Python is a current learning focus, not a claim of a published Python project.
 
 ## Selected Projects
 
@@ -28,7 +29,7 @@ HTML and CSS are listed as the web technologies used to structure and style my i
 A responsive single-page portfolio built with HTML, CSS and vanilla JavaScript. Includes mobile navigation, scroll interactions, reduced-motion support and project links.
 
 ### [ApplyTrail](https://github.com/anasalsapi77-beep/ApplyTrail-Complete)
-A local full-stack job application tracker built with JavaScript, Node.js, Express 5, MySQL and Docker Compose. Includes account authentication, an application pipeline, dashboard, reminders, activity history and CSV export. The repository documents local setup; it is not a production-hosted service.
+A local full-stack job application tracker built with JavaScript, Node.js, Express 5, MySQL and Docker Compose. Includes account authentication, an application pipeline, dashboard, reminders, activity history and CSV export. PowerShell and Windows Batch scripts help launch the local Docker setup. The repository documents local setup; it is not a production-hosted service.
 
 ### [TechStore](https://github.com/anasalsapi77-beep/TechStore)
 A responsive front-end storefront demo built with HTML, CSS and vanilla JavaScript. Includes product browsing, search, filters, cart and wishlist. Checkout is a browser-only demo and does not process real payments.
