@@ -31,7 +31,7 @@ A responsive single-page portfolio built with HTML, CSS and vanilla JavaScript. 
 ### [ApplyTrail](https://github.com/anasalsapi77-beep/ApplyTrail-Complete)
 A local full-stack job application tracker built with JavaScript, Node.js, Express 5, MySQL and Docker Compose. Includes account authentication, an application pipeline, dashboard, reminders, activity history and CSV export. PowerShell and Windows Batch scripts help launch the local Docker setup. The repository documents local setup; it is not a production-hosted service.
 
-### [TechStore](https://github.com/anasalsapi77-beep/TechStore)
+### [TechStore](https://github.com/anasalsapi77-beep/TechStore) · [Live demo](https://anasalsapi77-beep.github.io/TechStore/)
 A responsive front-end storefront demo built with HTML, CSS and vanilla JavaScript. Includes product browsing, search, filters, cart and wishlist. Checkout is a browser-only demo and does not process real payments.
 
 ## CV
