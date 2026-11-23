@@ -15,18 +15,21 @@ I am a first-year Software Engineering student at City University Malaysia, with
 ## Technologies
 
 **Web:** HTML5 · CSS3 · JavaScript  
-**Backend:** Node.js · Express  
-**Database:** SQL · MySQL  
+**Backend:** Python · Node.js · Express  
+**Database:** SQLite · SQL · MySQL  
 **Windows scripting:** PowerShell · Windows Batch  
 **Tools & configuration:** Git · GitHub · Docker · Docker Compose · YAML  
-**Currently learning:** Python
+**Currently learning:** AI fundamentals
 
-HTML and CSS are the web technologies used to structure and style my interfaces. PowerShell and Windows Batch are used for the local ApplyTrail launcher scripts. YAML is used for Docker Compose and GitHub Actions configuration. Python is a current learning focus, not a claim of a published Python project.
+HTML and CSS are the web technologies used to structure and style my interfaces. Python is used in the WARAQ Library Studio backend with SQLite; I am continuing to strengthen my Python skills through that project. PowerShell and Windows Batch are used for the local ApplyTrail launcher scripts. YAML is used for Docker Compose and GitHub Actions configuration.
 
 ## Selected Projects
 
 ### [Anas Portfolio](https://github.com/anasalsapi77-beep/Anas_Portfolio)
 A responsive single-page portfolio built with HTML, CSS and vanilla JavaScript. Includes mobile navigation, scroll interactions, reduced-motion support and project links.
+
+### [WARAQ Library Studio](https://github.com/anasalsapi77-beep/Waraq-Library-Studio)
+An Arabic-first full-stack library management application built with Python and SQLite. Includes a responsive RTL interface, role-aware manager/member workspaces, a searchable books-and-projects catalogue, borrowing and returns, due-date tracking and account settings. It is designed for local use and academic demonstration; it is not currently hosted as a public service.
 
 ### [ApplyTrail](https://github.com/anasalsapi77-beep/ApplyTrail-Complete)
 A local full-stack job application tracker built with JavaScript, Node.js, Express 5, MySQL and Docker Compose. Includes account authentication, an application pipeline, dashboard, reminders, activity history and CSV export. PowerShell and Windows Batch scripts help launch the local Docker setup. The repository documents local setup; it is not a production-hosted service.
