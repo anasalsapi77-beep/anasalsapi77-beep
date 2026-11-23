@@ -39,7 +39,7 @@ A responsive front-end storefront demo built with HTML, CSS and vanilla JavaScri
 
 ## CV
 
-[Download my CV (PDF)](https://github.com/anasalsapi77-beep/Anas_Portfolio/blob/main/Anas_Al_Sapi_CV.pdf) · [View CV source](https://github.com/anasalsapi77-beep/Anas_Portfolio/blob/main/CV.md)
+[View my updated CV](https://github.com/anasalsapi77-beep/Anas_Portfolio/blob/main/CV.md) · [View CV source](https://github.com/anasalsapi77-beep/Anas_Portfolio/blob/main/CV.md)
 
 ---
 
